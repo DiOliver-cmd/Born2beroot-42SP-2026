@@ -33,8 +33,8 @@ The final deliverable is a Git repository containing only a `README.md` and a `s
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url> born2beroot
-   cd born2beroot
+   git clone https://github.com/DiOliver-cmd/Born2beroot-42SP-2026.git
+   cd Born2beroot-42SP-2026
    ```
 2. Verify the signature of the virtual disk against `signature.txt`:
    ```bash
